@@ -69,7 +69,3 @@ Run all cells top to bottom. The notebook expects `DCA_DATA.xlsx` in the same di
 - No future drilling, workovers, shut-ins, or facility constraints are incorporated.
 - The fitted hyperbolic *b* reached the imposed upper bound (2.0), which can produce optimistic long-term tails — forecasts beyond 2027 should apply terminal decline and economic-limit assumptions.
 - The statistical interval reflects curve-fit and backtest-residual uncertainty only; it is not a petroleum-reserves P10/P50/P90 classification and does not capture commodity-price or operational risk.
-
-## License
-
-Internal analysis project — add a license here if this repository will be made public.
